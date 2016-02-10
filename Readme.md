@@ -1,4 +1,4 @@
 This is a git practice
-and this is purposely skeeled rong
-i will make da change sooooon
+and this is purposely spelled Wrong.
+i will make the change soon
 
